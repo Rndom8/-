@@ -36,7 +36,7 @@ void calculations() {
     result = (result + a / b);
     result = num.parse((result).toStringAsFixed(2));
   }
-  operation = '0';
+
   meter = '';
   meter1 = '';
   meter2 = '';
